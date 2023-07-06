@@ -10,3 +10,11 @@ Currency converter - on this page you can calculate the value of PLN in other cu
 Below is how to do it.
 
 ![gif](https://raw.githubusercontent.com/Dagaa95/currency-converter/main/gif/Animation.gif)
+
+
+### Used technologies
+- HTML
+- CSS
+- JavaScript 
+- BEM
+- Normalize 
